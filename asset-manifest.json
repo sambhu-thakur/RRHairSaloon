@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RRHairSaloon/static/css/main.84f5260c.css",
+    "main.js": "/RRHairSaloon/static/js/main.8379bcb0.js",
+    "static/js/787.5f6762bc.chunk.js": "/RRHairSaloon/static/js/787.5f6762bc.chunk.js",
+    "index.html": "/RRHairSaloon/index.html",
+    "main.84f5260c.css.map": "/RRHairSaloon/static/css/main.84f5260c.css.map",
+    "main.8379bcb0.js.map": "/RRHairSaloon/static/js/main.8379bcb0.js.map",
+    "787.5f6762bc.chunk.js.map": "/RRHairSaloon/static/js/787.5f6762bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84f5260c.css",
+    "static/js/main.8379bcb0.js"
+  ]
+}
