@@ -14,7 +14,7 @@ class Home extends React.Component{
                      <p>We take inspiration from the World's best cuisines, and create a unique fusion experience. Our lipsmacking creations will tickle your culinary senses!</p>
                      </div>
                      <div className="col-6  text-center">
-                     <img src="assets/images/Logo.png" height={200}/>
+                     <img src="assets/images/Logo.Png" height={200}/>
                      </div>
                      
 
@@ -28,7 +28,7 @@ class Home extends React.Component{
            <div className="container-fluid">
            <div className="row row-home" >
           <div className="col-6   " >
-          <img src="assets/images/bg.jpg" width='100%'/>
+          <img src="assets/images/bg.Jpg" width='100%'/>
           </div>
           <div className="col-6 row-text ">
            <h1> Look amazing and fell unique at 
@@ -71,7 +71,7 @@ class Home extends React.Component{
         interval={6100}
       >
         <div>
-          <img src="assets/images/cimage1.png" />
+          <img src="assets/images/cimage1.Png" />
           <div className="myCarousel">
             <h3>Shirley Fultz</h3>
             <h4>Designer</h4>
@@ -83,7 +83,7 @@ class Home extends React.Component{
         </div>
 
         <div>
-          <img src="assets/images/cimage2.png"  />
+          <img src="assets/images/cimage2.Png"  />
           <div className="myCarousel">
             <h3>Daniel Keystone</h3>
             <h4>Designer</h4>
@@ -95,7 +95,7 @@ class Home extends React.Component{
         </div>
 
         <div>
-          <img src="assets/images/cimage3.png"  />
+          <img src="assets/images/cimage3.Png"  />
           <div className="myCarousel">
             <h3>Theo Sorel</h3>
             <h4>Designer</h4>
