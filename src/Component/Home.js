@@ -14,7 +14,7 @@ class Home extends React.Component{
                      <p>We take inspiration from the World's best cuisines, and create a unique fusion experience. Our lipsmacking creations will tickle your culinary senses!</p>
                      </div>
                      <div className="col-6  text-center">
-                     <img src="assets/images/Logo.Png" height={200}/>
+                     <img src="../../public/assets/images/1.jpg" height={200}/>
                      </div>
                      
 
