@@ -28,7 +28,7 @@ class Home extends React.Component{
            <div className="container-fluid">
            <div className="row row-home" >
           <div className="col-6   " >
-          <img src="assets/images/bg.Jpg" width='100%'/>
+          <img src="./assets/images/bg.Jpg" width='100%'/>
           </div>
           <div className="col-6 row-text ">
            <h1> Look amazing and fell unique at 
