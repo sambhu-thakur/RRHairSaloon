@@ -16,7 +16,7 @@ render(){
         return(<div key={style.id} className="col-12 col-md-4">
                  
             <Card    className=" m-3 m  shadow-lg p-3 mb-5 bg-light rounded  "  >
-               <CardImg height={350} width="100%" src={style.images} alt={style.service} />
+               // <CardImg height={350} width="100%" src={style.images} alt={style.service} />
                 <CardBody>
                     <CardTitle className="text-uppercase">{style.service}</CardTitle>
                     <CardSubtitle >{style.Price}</CardSubtitle>
