@@ -7,7 +7,7 @@ class OurTeam extends React.Component{
                 <div key={ details.id } className="col-12 col-md-4">    
                     <Card className=" m-3 m  shadow-lg p-3 mb-5 bg-light rounded  "  >
 
-                        <CardImg width="100%" src={ details.images } alt={ details.name } />
+                        // <CardImg width="100%" src={ details.images } alt={ details.name } />
                         
                         
                                    
