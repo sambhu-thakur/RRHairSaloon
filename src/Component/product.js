@@ -7,7 +7,7 @@ class Product extends React.Component{
                 <div key={ item.id } className="col-12 col-md-4">    
                     <Card className=" m-3 m  shadow-lg p-3 mb-5 bg-white rounded  "  >
 
-                        <CardImg height={400} width="100%" src={ item.images } alt={ item.name } />
+                        // <CardImg height={400} width="100%" src={ item.images } alt={ item.name } />
                         
                         
                                    
