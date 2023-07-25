@@ -16,7 +16,7 @@ class Services extends  React.Component{
              
              
             <Card    className=" m-3 m  shadow-lg p-3 mb-5 bg-light rounded  "  >
-               <CardImg width="100%" height={400} src={details.images} alt={details.name} />
+               // <CardImg width="100%" height={400} src={details.images} alt={details.name} />
                 <CardBody>
                     
                 
